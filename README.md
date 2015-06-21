@@ -46,7 +46,7 @@ The implementation solution uses AIMA A* search with Manhattan distance heurist 
 The Dating Game
 This dating game consists of three males (M) three females (F), and an empty spot. The initial configuration is as follows:
 	
-F	F	F		M	M	M
+M   M   M		F	F	F
 
 The game has two legal moves with associated costs:
 	A person (M or F) may move into an adjacent empty chair. This has a cost of 1.
